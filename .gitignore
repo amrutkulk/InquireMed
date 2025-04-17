@@ -27,3 +27,9 @@ data/raw/
 data/processed/
 embeddings/
 models/
+
+# Virtual env
+inquirmed/
+.venv/
+venv/
+
