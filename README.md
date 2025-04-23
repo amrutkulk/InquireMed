@@ -1,4 +1,4 @@
-# 🩺 Inquirmed – GenAI Clinical Assistant (Prototype)
+# 🩺 Inquirmed – GenAI Clinical Assistant 
 
 Inquirmed is an open-source GenAI-powered clinical assistant designed to help healthcare practitioners explore medical information, answer symptom-related questions, and generate structured patient documentation — **entirely offline** and using only **publicly available datasets and free tools**.
 
